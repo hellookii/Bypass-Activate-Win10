@@ -3,8 +3,6 @@ Using a Windows 10 license will always receive a lot of support from the provide
 
 <img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge_wm_blw/public/field/image/2015/08/activate1.PNG?itok=7TGs22Ps"/>
 
-Thanks [MSGuides.com](http://MSGuides.com) for making this script
-
 # Instruction
 
-[Download BAT file](https://github.com/HuskyDG/Bypass-Activate-Windows-10/releases/download/v1.0/active-window-10.bat) , make sure file is on your Windows 10. Run BAT file script with **Run as administrator**
+[Download BAT file](https://github.com/hellookii/Bypass-Activate-Win10/releases/download/version1/active-windows-10.bat) , make sure file is on your Windows 10. Run BAT file script with **Run as administrator**
